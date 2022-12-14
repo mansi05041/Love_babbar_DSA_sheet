@@ -13,6 +13,10 @@ C++ implemented codes on Data Structure &amp; algorithm
 
 ### Links
 
+#### Arrays
+- [Reverse an array](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/1.Reverse_an_array)
+- [Find Minimum and Maximum value of array](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/2.Find_Min_Max_array)
+
 
 
 ### Useful resources
