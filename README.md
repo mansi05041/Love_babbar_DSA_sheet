@@ -16,6 +16,10 @@ C++ implemented codes on Data Structure &amp; algorithm
 #### Arrays
 - [Reverse an array](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/1.Reverse_an_array)
 - [Find Minimum and Maximum value of array](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/2.Find_Min_Max_array)
+- [Find Kth smallest element](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/3.Kth%20smallest%20element)
+- [sort array having 0,1,2's without using sort algo](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/4.Sort0_1_2_array)
+- [Move all negative numbers to beginning and positive to end](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/5.Move_negative_ele_to_one_side)
+- 
 
 
 
