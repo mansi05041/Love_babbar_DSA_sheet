@@ -38,7 +38,7 @@ Space complexity : O(1)
 
 ### three pointer approach
 - initialize zero_ptr=0, one_ptr=0 and two_ptr=n-1
-- In the loop, it will execute while one_ptr<=two_ptr
+- In the loop, it will execute while one_ptr<=two_ptr </br>
 i) if(arr[one_ptr]==0) </br>
    then swap(arr[one_ptr],arr[zero_ptr]) and increment one_ptr and zero_ptr. </br>
 ii) else if (arr[one_ptr]==2) </br>
