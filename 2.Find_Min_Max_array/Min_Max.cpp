@@ -8,7 +8,7 @@ vector<int> Min_Max(vector<int> &a){
     if(a.size()==1) return{a[0],a[0]};
 
     int min_val,max_val;
-    min_val=min(a[0],a[1]);
+    min_val=min(a[0],a[1]);   
     max_val=max(a[0],a[1]);
     for(int i=2;i<a.size();i++){
         if(a[i]<min_val) min_val=a[i];
