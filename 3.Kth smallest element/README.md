@@ -27,7 +27,7 @@ Time complexity : O(n logn) </br>
 Space complexity : O(1) 
 
 ### Using quickselect algorithm
-- related to quicksort algorithm
+- related to quickselect algorithm
 
 ```
 function quickselect(arr[],left,right,k)
