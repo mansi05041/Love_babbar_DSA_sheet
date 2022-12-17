@@ -24,7 +24,7 @@ C++ implemented codes on Data Structure &amp; algorithm
 - [Largest Sum contiguous Subarrray](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/8.Largest_sum_contiguous_Subarray)
 - [Minimise the maximum difference between heights](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/9.Minimise_max_diff_bw_heights)
 - [Minimum number of jumps to reach an end of array](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/10.Min_jumps_eod_array)
-
+- [Find the Duplicate number in N+1 integer array](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/11.Find_duplicate_N%2B1_array)
 
 
 ### Useful resources
