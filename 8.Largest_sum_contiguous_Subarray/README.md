@@ -39,9 +39,9 @@ Space complexity : O(1)
 ### Kadanes Algorithm
 - Initialize cursum = arr[0] and maxsum = arr[0], where cursum keeps track of running sum and maxsum keeps the maximum sum of contiguous sub-array. 
 - Repeat the given steps for i=1 to n-1 </br>
-i) if the cursum >=0 , then add arr[i] and cursum
-ii) else set cursum = arr[i]
-iii) update the maxsum
+i) if the cursum >=0 , then add arr[i] and cursum </br>
+ii) else set cursum = arr[i] </br>
+iii) update the maxsum </br>
 
 Time Complexity: O(n) </br>
 Space Complexity: O(1)
