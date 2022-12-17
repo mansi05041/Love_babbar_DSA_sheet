@@ -30,7 +30,7 @@ Space Complexity: O(1)
 - find the duplicate if value's frequency is more than 1
 
 Time Complexity: O(n) </br>
-Space Complexity: O(1)
+Space Complexity: O(n)
 
 ### Using negative marking
 - Iterate through array
