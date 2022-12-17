@@ -1,4 +1,4 @@
-# [Move all negative numbers to beginning and positive to end](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1)
+# [Minimize the maximum difference between heights](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1)
 
 ## Table of contents
 
