@@ -1,4 +1,4 @@
-# [Rearrange the Array in alternating positive and negative items with O(1) space]()
+# [Rearrange the Array in alternating positive and negative items with O(1) space](https://www.geeksforgeeks.org/rearrange-array-alternating-positive-negative-items-o1-extra-space/)
 
 ## Table of contents
 
