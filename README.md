@@ -35,7 +35,7 @@ C++ implemented codes on Data Structure &amp; algorithm
 - [Rearrange the array in alternating positive and negative items with O(1) extra space](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/array/19.Rearrange_alternating_positive_negative)
 - [Find if there is any aubarray with sum equal to 0](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/array/20.Find_Subarray_With_Sum_0)
 - [Find factorial of a large number](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/array/21.Find_Factorial_large_number)
-- [Find Maximum Product Subarray]()
+- [Find Maximum Product Subarray](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/array/22.Find_Maximum_Product_Subarray)
 
 ### Useful resources
 
