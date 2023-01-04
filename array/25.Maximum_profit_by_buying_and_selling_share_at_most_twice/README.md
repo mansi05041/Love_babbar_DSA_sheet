@@ -14,10 +14,10 @@ Input: price[] = {10, 22, 5, 75, 65, 80}</br>
 Output: 87
 
 ## Algorithm
-
-- Track the maximum profit from the first buy and sell.
-- Obtain the next maximum profit after the first sell.
-- Add the both profits to get result.
+- Intialize four variables for first buy, first sell, second buy and second sell.
+- Set first buy and second buy as INT_MIN and 
+first and seconnd sell as 0.
+- Iterate through the array and return the second sell as it will store the maximum profit.
 
 Time Complexity: O(n) </br>
 Space Complexity: O(1)
