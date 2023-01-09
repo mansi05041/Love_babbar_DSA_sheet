@@ -36,6 +36,13 @@ C++ implemented codes on Data Structure &amp; algorithm
 - [Find if there is any aubarray with sum equal to 0](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/array/20.Find_Subarray_With_Sum_0)
 - [Find factorial of a large number](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/array/21.Find_Factorial_large_number)
 - [Find Maximum Product Subarray](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/array/22.Find_Maximum_Product_Subarray)
+- [Find longest consecutive subsequence](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/array/23.Longest_consecutive_subsequence)
+- [Find all the elements that appear n/3 times](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/array/24.Find_all%20_Elements_that_occur_nby3_times)
+- [Maximum profit by buying and selling a share at most twice](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/array/25.Maximum_profit_by_buying_and_selling_share_at_most_twice)
+- [Find whether an array is a subset of another array](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/array/26.Subset_of_another_array)
+- [Find the triplet that sum to a given value](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/array/27.Find_triplet_sum_X)
+- [Trapping Rain Water](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/array/28.Trapping_Rain_water)
+- [Chocolate Distribution](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/array/29.chocolate_distribution)
 
 ### Useful resources
 
