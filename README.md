@@ -43,6 +43,9 @@ C++ implemented codes on Data Structure &amp; algorithm
 - [Find the triplet that sum to a given value](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/array/27.Find_triplet_sum_X)
 - [Trapping Rain Water](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/array/28.Trapping_Rain_water)
 - [Chocolate Distribution](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/array/29.chocolate_distribution)
+- [Smallest Subarray with sum greater than a given value](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/array/30.Smallest_subarray_sum_greater_than%20_givenValue)
+- [Three way partitioning of an array around a given value](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/array/31.Three_way_partitioning)
+- [Minimum swaps and K together]()
 
 ### Useful resources
 
