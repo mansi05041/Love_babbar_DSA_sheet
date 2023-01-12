@@ -12,7 +12,7 @@ C++ implemented codes on Data Structure &amp; algorithm
 450 DSA questions from Love Babbar DSA sheet
 
 ### Topics
-- [Arrays]()
+- [Arrays](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/array)
 
 
 ### Useful resources
