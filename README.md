@@ -4,7 +4,7 @@ C++ implemented codes on Data Structure &amp; algorithm
 ## Table of contents
 
 - [Overview](#overview)
-- [Links](#links)
+- [Topics](#topics)
 - [Useful resources](#useful-resources)
 - [Author](#author)
 
