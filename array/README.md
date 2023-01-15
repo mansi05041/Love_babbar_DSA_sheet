@@ -33,3 +33,5 @@
 - [Three way partitioning of an array around a given value](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/array/31.Three_way_partitioning)
 - [Minimum swaps and K together](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/array/32.Minimum_Swaps_K_together)
 - [Minimum no of operations required to make an array palindrome](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/array/33.Min_operations_array_palindrome)
+- [Median of 2 sorted arrays of equal size](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/array/34.Median_2_sorted_arrays_equal_size)
+- [Median of 2 sorted arrays of unequal size](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/array/35.Median_2_sorted_array_unequal_size)
