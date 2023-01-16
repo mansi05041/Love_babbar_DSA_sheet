@@ -23,5 +23,5 @@ Output : 5->4->3->2->1
 (iv) set head = next_ptr
 - Return prev as reverse linked list
 
-Time Complexity: O(n)
+Time Complexity: O(n) </br>
 Space Complexity: O(1)
