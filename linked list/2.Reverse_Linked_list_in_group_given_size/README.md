@@ -54,4 +54,4 @@ decrement count by k
 ```
 - return dummy->next
 Time Complexity: O(n) </br>
-Space Complexity: O(n/k)
+Space Complexity: O(1)
