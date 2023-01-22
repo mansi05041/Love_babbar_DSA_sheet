@@ -6,3 +6,5 @@
 - [Find the starting point of the loop](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/linked%20list/5.Find_Start_node_Linked_List)
 - [Remove Duplicates in a sorted linked list](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/linked%20list/6.Remove_duplicates_linked_list)
 - [Remove Duplicates from an unsorted linked list](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/linked%20list/7.Remove_duplicated_unsorted_linked_list)
+- [Move last node to front of a given linked list](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/linked%20list/8.Move_last_node_to_front_linkedList)
+- [Add 1 to linked list](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/linked%20list/9.Add_1_to_linkedList)
