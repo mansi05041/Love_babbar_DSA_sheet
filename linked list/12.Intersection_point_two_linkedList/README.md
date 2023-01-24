@@ -28,7 +28,7 @@ Space Complexity: O(1)
 
 ### By using detect loop in linked list approach
 - connect any one of the linked list with tail. 
-- Now it becomes the question to detect the loop. That is explai in this [approach](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/linked%20list/5.Find_Start_node_Linked_List).
+- Now it becomes the question to detect the loop. That is explain in this [approach](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/linked%20list/5.Find_Start_node_Linked_List).
 
 Time Complexity: O(n) </br>
 Space Complexity: O(1)
