@@ -9,3 +9,6 @@
 - [Move last node to front of a given linked list](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/linked%20list/8.Move_last_node_to_front_linkedList)
 - [Add 1 to linked list](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/linked%20list/9.Add_1_to_linkedList)
 - [Add 2 numbers represented as linked list](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/linked%20list/10.Added_two_numbers_linkedList)
+- [Intersection of two sorted linked list](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/linked%20list/11.Intersection_two_sorted_linkedList)
+- [Interesction Point in Y Linked list](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/linked%20list/12.Intersection_point_two_linkedList)
+- [Merge Sort for Linked List]()
