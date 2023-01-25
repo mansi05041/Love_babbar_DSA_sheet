@@ -21,4 +21,4 @@ Output: 6->3->6
 - return head after loop iteration.
 
 Time Complexity: O(N)</br>
-Space Complexity: O(1)
+Space Complexity: O(N+M)

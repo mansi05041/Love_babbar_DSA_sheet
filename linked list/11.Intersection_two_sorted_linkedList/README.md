@@ -21,4 +21,4 @@ Output: 2->4->6
 - if curr1->data == curr2->data then create new node with the same value and add it to the intersection linked list
 
 Time Complexity: O(N)</br>
-Space Complexity: O(1)
+Space Complexity: O(N+M)
