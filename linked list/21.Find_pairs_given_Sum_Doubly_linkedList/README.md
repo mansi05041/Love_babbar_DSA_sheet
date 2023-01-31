@@ -1,4 +1,4 @@
-# [Fins pairs with given sum in doubly linked list](https://practice.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1)
+# [Find pairs with given sum in sorted doubly linked list](https://practice.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1)
 
 ## Table of contents
 
