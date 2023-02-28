@@ -20,4 +20,4 @@
 - [Deletion from a circular linked list](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/linked%20list/19.Deletion_from_circularLinkedList)
 - [Reverse a Doubly Linked list](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/linked%20list/20.ReverseDoublyLinkedList)
 - [Find a Pairs with a given sum in a DLL](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/linked%20list/21.Find_pairs_given_Sum_Doubly_linkedList)
--[Count triplets in a sorted DLL whose sum is equal to given value "X"](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/linked%20list/22.Find_triplet_pairs_sum_equal_to_target_doublyLinkedList)
+- [Count triplets in a sorted DLL whose sum is equal to given value "X"](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/linked%20list/22.Find_triplet_pairs_sum_equal_to_target_doublyLinkedList)
