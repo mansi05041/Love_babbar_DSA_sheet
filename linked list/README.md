@@ -23,3 +23,4 @@
 - [Count triplets in a sorted DLL whose sum is equal to given value "X"](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/linked%20list/22.Find_triplet_pairs_sum_equal_to_target_doublyLinkedList)
 - [Sort a "k" Sorted Doubly linked list by N nodes](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/linked%20list/23.sort-k-doubly-linked-list)
 - [Rotate Doubly Linked list by N nodes](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/linked%20list/24.Rotate_DoublyLinkedList_by_nNodes)
+- [Reverse the doubly linked list in given group size](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/linked%20list/25.Reverse_DoublyLinkedList_inGroupSize)
