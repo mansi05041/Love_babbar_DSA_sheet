@@ -22,4 +22,4 @@
 - [Find a Pairs with a given sum in a DLL](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/linked%20list/21.Find_pairs_given_Sum_Doubly_linkedList)
 - [Count triplets in a sorted DLL whose sum is equal to given value "X"](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/linked%20list/22.Find_triplet_pairs_sum_equal_to_target_doublyLinkedList)
 - [Sort a "k" Sorted Doubly linked list by N nodes](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/linked%20list/23.sort-k-doubly-linked-list)
--[Rotate Doubly Linked list by N nodes](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/linked%20list/24.Rotate_DoublyLinkedList_by_nNodes)
+- [Rotate Doubly Linked list by N nodes](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/linked%20list/24.Rotate_DoublyLinkedList_by_nNodes)
