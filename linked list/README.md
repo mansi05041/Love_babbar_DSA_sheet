@@ -24,3 +24,5 @@
 - [Sort a "k" Sorted Doubly linked list by N nodes](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/linked%20list/23.sort-k-doubly-linked-list)
 - [Rotate Doubly Linked list by N nodes](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/linked%20list/24.Rotate_DoublyLinkedList_by_nNodes)
 - [Reverse the doubly linked list in given group size](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/linked%20list/25.Reverse_DoublyLinkedList_inGroupSize)
+- [Flatten Linked List](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/linked%20list/26.FlattenLinkedList)
+- [Sort Linked List containing 1's,0's,2's](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/linked%20list/27.SortLinkedList_1's_0's_2's)
