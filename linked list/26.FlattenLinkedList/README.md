@@ -14,7 +14,8 @@ Each of the sub-linked-list is in sorted order.
 Flatten the Link List such that all the nodes appear in a single level while maintaining the sorted order. 
 
 ## Input_output
-Input: 5 -> 10 -> 19 -> 28 <br/>
+Input:  <br />
+5 -> 10 -> 19 -> 28 <br/>
 |     |     |     | <br/>
 7     20    22   35 <br/>
 |           |     | <br/>
