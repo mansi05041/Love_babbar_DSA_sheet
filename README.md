@@ -14,6 +14,7 @@ C++ implemented codes on Data Structure &amp; algorithm
 ### Topics
 - [Arrays](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/array)
 - [Linked List](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/linked%20list)
+- [Stack & Queue](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Stacks%20%26%20Queue)
 
 
 ### Useful resources
