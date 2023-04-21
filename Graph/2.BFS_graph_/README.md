@@ -13,7 +13,7 @@ Given a directed graph. The task is to do Breadth First Traversal of this graph 
 - Initialize Queue and array that store BFS traversal
 - Visit the first node and push into queue
 - Repeat the given steps until the queue do not get empty.
-    - remove the front node from quwuw and push it into BFS array.
+    - remove the front node from queue and push it into BFS array.
     - Add the neighbor of removed node in queue if it is not visited.
 
 Time Complexity: O(V+E) <br />
