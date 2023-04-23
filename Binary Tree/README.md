@@ -1,2 +1,3 @@
 - [Level order Traversal](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Binary%20Tree/1.Level_order_traversal)
 - [Reverse Level Order Traversal](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Binary%20Tree/2.Reverse_Level_Order_Traversal)
+- [Height of Binary Tree](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Binary%20Tree/3.Height_BinaryTree)
