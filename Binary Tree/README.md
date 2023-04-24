@@ -3,3 +3,6 @@
 - [Height of Binary Tree](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Binary%20Tree/3.Height_BinaryTree)
 - [Diameter of a Binary Tree](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Binary%20Tree/4.Diameter_BinaryTree)
 - [Mirror of a tree](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Binary%20Tree/5.Mirror_BinaryTree)
+- [Inorder Traversal of a tree](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Binary%20Tree/6.InorderTraversal)
+- [Preorder Traversal of a tree](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Binary%20Tree/7.PreorderTraversal)
+- [Postorrder Traversal of a tree](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Binary%20Tree/8.PostorderTraversal)
