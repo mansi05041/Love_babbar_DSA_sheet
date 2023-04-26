@@ -17,6 +17,7 @@ C++ implemented codes on Data Structure &amp; algorithm
 - [Stack & Queue](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Stacks%20%26%20Queue)
 - [Graph](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Graph)
 - [Binary Tree](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Binary%20Tree)
+- [BST](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/BST)
 
 
 ### Useful resources
