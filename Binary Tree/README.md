@@ -10,3 +10,4 @@
 - [Right View of Binary Tree](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Binary%20Tree/10.RightListView)
 - [Top View of Binary Tree](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Binary%20Tree/11.TopViewBinaryTree)
 - [Bottom View of Binary Tree](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Binary%20Tree/12.BottomViewBinaryTree)
+- [Zig Zag Traversal of Binary Tree](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Binary%20Tree/13.ZigZagTraversal)
