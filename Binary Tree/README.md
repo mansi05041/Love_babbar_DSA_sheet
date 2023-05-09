@@ -11,3 +11,4 @@
 - [Top View of Binary Tree](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Binary%20Tree/11.TopViewBinaryTree)
 - [Bottom View of Binary Tree](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Binary%20Tree/12.BottomViewBinaryTree)
 - [Zig Zag Traversal of Binary Tree](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Binary%20Tree/13.ZigZagTraversal)
+- [Check if the tree is balanced or not](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Binary%20Tree/14.Balanced_Tree)
