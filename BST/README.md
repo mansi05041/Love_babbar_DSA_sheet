@@ -1,2 +1,3 @@
 - [Insert a node in BST](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/BST/1.Insert_NodeBST)
 - [Delete a node from BST](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/BST/2.Delete_NodeBST)
+- [Find Min and Max element in BST](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/BST/3.Min_Max_Node)
