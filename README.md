@@ -19,6 +19,7 @@ C++ implemented codes on Data Structure &amp; algorithm
 - [Binary Tree](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Binary%20Tree)
 - [BST](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/BST)
 - [String](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/String)
+- [Bit Manipulation](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Bit%20manipulation)
 
 
 ### Useful resources
