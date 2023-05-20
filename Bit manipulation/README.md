@@ -1,1 +1,2 @@
 - [Count set bits in an integer](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Bit%20manipulation/1.CountSetBits)
+- [Find the two non-repeating elements in an array of repeating elements](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Bit%20manipulation/2.NonRepeatingNumbers)
