@@ -1,1 +1,2 @@
 - [Coin Change](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Dynamic%20Programming/1.CoinChange)
+- [0-1 knapsack Problem](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Dynamic%20Programming/2.KnapSack)
