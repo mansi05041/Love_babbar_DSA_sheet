@@ -6,3 +6,4 @@
 - [Steps by Knight](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Graph/7.KnightSteps)
 - [Flood Fill Algorithm](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Graph/8.FloodFill)
 - [Clone Graph](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Graph/9.CloneGraph)
+- [Number of operations to Make Network Connected](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Graph/10.ComputerNetwork)
