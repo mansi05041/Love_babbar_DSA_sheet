@@ -21,7 +21,7 @@ Given a Directed Acyclic Graph having V vertices and E edges, where each edge {U
     - If the indegree of a neighbor becomes zero, push it into the queue and update its timer to the current node's timer plus 1.
 - Return the timer
 
-Time Complexity: O(n+m)
+Time Complexity: O(n+m) </br>
 Space Complexity: O(n+m) </br>
 <code>n : nodes </br>
 m : edges </code>
