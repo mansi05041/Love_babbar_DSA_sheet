@@ -26,7 +26,7 @@ Given two words, beginWord and endWord, and a dictionary wordList, return the nu
     - if temporary word is already present in the wordSet, then push it into the queue and remove it from 'wordSet'.
 
 Time Complexity: O(M*N<sup>2</sup>)
-Space Complexity: O(N)
+Space Complexity: O(N) </br>
 <code>N : the total words in 'wordList' </br>
 M : the average length of the words </code>
 
