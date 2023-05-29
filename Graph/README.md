@@ -10,3 +10,4 @@
 - [Word Ladder](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Graph/11.WordLadder)
 - [Dijkstra Algorithm](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Graph/12.DijkstraAlgorithm)
 - [Topological Sort](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Graph/13.TopologicalSort)
+- [Minimum time taken by each job to be completed given by a Directed Acyclic Graph](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Graph/14.MinTimeTakenJobDAG)
