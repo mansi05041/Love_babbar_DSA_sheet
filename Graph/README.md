@@ -3,6 +3,7 @@
 - [DFS of graph](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Graph/3.DFS_graph)
 - [Detect cycle in a directed graph](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Graph/4.Detect_cycle_DirectedGraph)
 - [Detect cycle in an undirected graph](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Graph/5.Detect_cycle_UnDirectedGraph)
+- [Rat in a Maze Problem](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Graph/6.SearchInMaze)
 - [Steps by Knight](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Graph/7.KnightSteps)
 - [Flood Fill Algorithm](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Graph/8.FloodFill)
 - [Clone Graph](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Graph/9.CloneGraph)
