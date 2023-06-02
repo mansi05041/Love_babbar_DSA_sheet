@@ -2,3 +2,4 @@
 - [0-1 knapsack Problem](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Dynamic%20Programming/2.KnapSack)
 - [Binomial Coefficient](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Dynamic%20Programming/3.BinomialCoefficientProblem)
 - [Permutation](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Dynamic%20Programming/4.Permutation)
+- [Catalan Number](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Dynamic%20Programming/5.CatalanNumber)
