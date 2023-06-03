@@ -3,3 +3,4 @@
 - [Binomial Coefficient](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Dynamic%20Programming/3.BinomialCoefficientProblem)
 - [Permutation](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Dynamic%20Programming/4.Permutation)
 - [Catalan Number](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Dynamic%20Programming/5.CatalanNumber)
+- [Matrix Chain Multiplication](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Dynamic%20Programming/6.MatrixChainMultiplication)
