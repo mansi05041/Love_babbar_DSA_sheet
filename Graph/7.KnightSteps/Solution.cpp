@@ -63,8 +63,8 @@ class solution{
                     }
                 }
 
-                // decrement the steps
-                steps--;
+                // decrement the size
+                size--;
             }
         }
         return steps;
