@@ -19,3 +19,4 @@
 - [Prims Algorithm](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Graph/19.PrimsAlgorithm)
 - [Bellman Ford Algorithm](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Graph/21.BellmanFordAlgorithm)
 - [Floyd Warshall Algorithm](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Graph/22.FloydWarshall)
+- [Strongly Connected Components (Kosaraju's Algo)](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Graph/27.KosarajuAlgorithm)
