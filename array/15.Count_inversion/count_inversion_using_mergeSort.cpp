@@ -4,11 +4,11 @@ using namespace std;
 
 int merge(vector<int> &v, int left, int mid, int right){
    int i = left;
-   int j = mid;
+   int j = mid+1;
    int k =0;
    int inv_count=0;
    vector<int> temp{right-left+1};
-   while (i<mid && j<=right)
+   while (i<=mid && j<=right)
    {
     if(v[i]<=v[j]){
         temp[k]=v[i];
@@ -17,14 +17,14 @@ int merge(vector<int> &v, int left, int mid, int right){
     }
     else{
         temp[k]=v[j];
-        inv_count+=(mid-i);
+        inv_count+=(mid-i+1);
         ++k;
         ++j;
     }
    }
 
    // copy the data
-   while (i<mid)
+   while (i<=mid)
    {
     temp[k]=v[i];
     ++k;
@@ -46,7 +46,7 @@ int Count_inversions_using_MergeSort(vector<int> &v,int left, int right){
         mid=(right+left)/2;
         inv_count=Count_inversions_using_MergeSort(v,left,mid);
         inv_count+=Count_inversions_using_MergeSort(v,mid+1,right);
-        inv_count+=merge(v,left,mid+1,right);
+        inv_count+=merge(v,left,mid,right);
     }
     return inv_count;
 }
