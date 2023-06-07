@@ -30,7 +30,7 @@ Time Complexity: O(n<sup>2</sup>) </br>
 Space Complexity: O(1)
 
 ### Using Merge Sort
-- Divide the array into wo equal or almost halves in each step until the base case is reached.
+- Divide the array into two equal or almost halves in each step until the base case is reached.
 - for merge function intialize i an j as the index of the halves.
 - if a[i]>a[j] then there are (mid-i) inversions because left and right subarrays are sorted, so all the elements in the left subarray will be greater than a[j].
 
