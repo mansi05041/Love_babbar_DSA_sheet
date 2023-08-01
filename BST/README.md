@@ -4,3 +4,4 @@
 - [Find inorder successor and inorder predecessor in a BST](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/BST/4.Pre_suc)
 - [Check if a tree is a bST or not](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/BST/5.CheckBST)
 - [Populate Inorder successor of all nodes](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/BST/6.PopulateWithInorderSuccessor)
+- [Lowest Common Ancestor in a BST](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/BST/7.LCA)
