@@ -6,3 +6,4 @@
 - [Matrix Chain Multiplication](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Dynamic%20Programming/6.MatrixChainMultiplication)
 - [Edit Distance](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Dynamic%20Programming/7.EditDistance)
 - [Subset Sum Problem](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Dynamic%20Programming/8.PartitionSubsetSum)
+- [Friends Pairing Problem](https://github.com/mansi05041/Love_babbar_DSA_sheet/tree/main/Dynamic%20Programming/9.FriendsPairingProblem)
